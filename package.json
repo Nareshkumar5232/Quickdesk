@@ -1,0 +1,20 @@
+{
+  "name": "quickdesk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nareshkumar5232/Quickdesk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nareshkumar5232/Quickdesk/issues"
+  },
+  "homepage": "https://github.com/Nareshkumar5232/Quickdesk#readme"
+}
